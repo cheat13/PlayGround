@@ -1,0 +1,7 @@
+{
+  "name": "ClassRoom",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
